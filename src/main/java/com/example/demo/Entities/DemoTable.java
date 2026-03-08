@@ -51,7 +51,4 @@ public class DemoTable {
 		this.age = age;
 	}
 	
-	
-	
-	
 }
